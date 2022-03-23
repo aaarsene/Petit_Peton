@@ -23,3 +23,7 @@ For reference, I have one made out of 6mm stainless steel and it weighs 730g, wi
 ![Stainless Weight](./img/stainless-weight.jpg)
 ![Case with weight underside](./img/case-with-weight-underside.jpg)
 ![Case with weight](./img/case-with-weight.jpg)
+
+## FR4 Plate
+
+Thanks to [Ergorius](https://github.com/pohjolaworks) for the gerbers files of the FR4 Plate
